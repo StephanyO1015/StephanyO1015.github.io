@@ -1,7 +1,7 @@
 
 # Stephany Ortega's Portfolio
 
-I am a electrical engineer major at CSUF and I planning in on graduating in 2029.
+I am an electrical engineer major at CSUF and I'm planning to graduate in 2029.
 
 ## Favorite CPSC 120L Labs
 
